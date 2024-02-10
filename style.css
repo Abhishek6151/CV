@@ -1,1 +1,19 @@
-body
+body{background-color:aquamarine;}
+hr{
+    border-style:none;
+    border-top-style:dotted;
+    border-width:5px;
+    border-color:black;
+    width:5%;
+
+
+}
+h1{
+    color: rgb(106, 112, 114);
+}
+h3{
+    color: rgb(51, 166, 204);
+}    
+h2{
+    color: rgb(80, 95, 100);
+}  
