@@ -17,3 +17,5 @@ h3{
 h2{
     color: rgb(80, 95, 100);
 }  
+img:hover{
+    width:"75px";}
